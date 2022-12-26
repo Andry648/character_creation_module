@@ -1,4 +1,4 @@
-from random import randint
+flakefrom random import randint
 
 
 def attack(char_name, char_class):
